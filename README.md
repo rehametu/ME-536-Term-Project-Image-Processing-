@@ -5,7 +5,7 @@ This project is created fot ME 536 Intelligent Machine Design Course from Middle
 Submitted by:Reha Oğuz USLU
 
 ## Used Topic on Project:
-**PCA
-**ANN
-**CNN
-**Use of Specific Kernels/Filters
+** *PCA*
+** *ANN*
+** *CNN*
+** *Use of Specific Kernels/Filters*
