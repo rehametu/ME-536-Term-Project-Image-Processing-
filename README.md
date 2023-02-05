@@ -10,5 +10,5 @@ Submitted by:Reha Oğuz USLU
 * *CNN*
 * *Use of Specific Kernels/Filters*
 
-## Used data set and other documents are included this drive [https://drive.google.com/drive/folders/1ArC6LMZw1vEjuvnoQ9DavJD4cDkjdi-U?usp=sharing](link)
+## Used data set and other documents are included this drive [link](https://drive.google.com/drive/folders/1ArC6LMZw1vEjuvnoQ9DavJD4cDkjdi-U?usp=sharing)
 
